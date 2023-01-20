@@ -1,0 +1,31 @@
+.white-background {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 20px;
+}
+
+.thumbnails-container {
+  list-style-type: none;
+  display: flex;
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 25px;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.para {
+  color: #64748b;
+  font-size: 18px;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.img1-style {
+  height: 60vh;
+  width: 60vh;
+  border-radius: 20px;
+  padding-left: 50px;
+}
